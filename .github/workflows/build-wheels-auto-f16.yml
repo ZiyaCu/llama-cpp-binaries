@@ -1,4 +1,4 @@
-name: Build CUDA Wheels Auto
+name: Build CUDA Wheels Auto Fp16
 
 on:
   workflow_dispatch:
