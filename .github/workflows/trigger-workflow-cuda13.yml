@@ -1,4 +1,4 @@
-name: Check for new release
+name: Check for new release cuda13
 
 on:
   schedule:
